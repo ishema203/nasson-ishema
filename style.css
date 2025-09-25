@@ -60,7 +60,7 @@ ul li a:hover{
 	margin-left: 270px;
 
 }
-.srch{
+.search{
 	font-family: 'times in roman';
 	width: 200px;
 	height: 40px;
@@ -250,4 +250,5 @@ ul li a:hover{
 .icons ion-icon:hover{
 	color: #ff7200;
 	text-align: center;
+
 }
